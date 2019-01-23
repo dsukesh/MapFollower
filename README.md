@@ -1,0 +1,2 @@
+# MapFollower
+A MapFollower is a four wheeled car. It travels the path set by the computer. The user draws a path in paint and uploads it in Anaconda( or any other python editor) and compiles it with the Python code.The bot with Arduino has its bluetooth connected with a computer. The computer sends the instructions through bluetooth to Arduino. The arduino is programmed to receive the instructions and execute the path provided. 
